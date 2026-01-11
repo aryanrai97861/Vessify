@@ -376,15 +376,3 @@ The following AI tools were used during development:
 
 MIT
 
----
-
-## 🤝 Submission Checklist
-
-- [x] Private GitHub repository created
-- [x] `@vessify-admin` invited as collaborator
-- [x] README with setup instructions
-- [x] `.env.example` files included
-- [x] Test user credentials documented
-- [x] Better Auth integration explanation
-- [x] Loom video walkthrough *(add links above)*
-- [x] AI tools disclosure included
