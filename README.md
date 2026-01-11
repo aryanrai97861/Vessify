@@ -359,18 +359,10 @@ if (items.length > limit) {
 The following AI tools were used during development:
 
 - **GitHub Copilot** - Code autocompletion
-- **Gemini** (Claude) - Planning, debugging, and code generation assistance
 
 ---
 
-## 📹 Video Walkthrough
 
-> **Loom Link(s)**: *(Add your Loom video links here)*
-
-- Part 1: [Full Demo Flow - Register → Login → Extract → Isolation Test](#)
-- Part 2: [Code Walkthrough - Better Auth, Isolation, Pagination](#)
-
----
 
 ## 📄 License
 
