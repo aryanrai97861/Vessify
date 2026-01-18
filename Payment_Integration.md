@@ -189,31 +189,6 @@ When a free user hits their limit:
 
 ---
 
-## 📋 Stripe Dashboard Setup Steps
-
-1. **Create Account** at [stripe.com](https://stripe.com)
-
-2. **Create a Product:**
-   - Dashboard → Products → Add Product
-   - Name: "Vessify Pro"
-   - Add a Price: $9.99/month recurring
-
-3. **Get Your API Keys:**
-   - Dashboard → Developers → API Keys
-   - Copy the Secret Key (starts with `sk_test_` or `sk_live_`)
-
-4. **Set Up Webhook:**
-   - Dashboard → Developers → Webhooks
-   - Add endpoint: `https://your-domain.com/api/webhook/stripe`
-   - Select events: `checkout.session.completed`, `customer.subscription.*`
-
-5. **Enable Customer Portal:**
-   - Dashboard → Settings → Billing → Customer portal
-   - This lets users cancel/manage subscriptions themselves
-
----
-
-
 ## 📚 Summary
 
 | Concept | Implementation |
